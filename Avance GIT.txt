@@ -1,0 +1,9 @@
+git init
+git add archivo.extension
+git add --all
+ls
+clear
+git commit -m "Comentario"
+git remote add origin http://...
+
+git pull origin master
