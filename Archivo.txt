@@ -2,7 +2,11 @@ Editando archivo 1...
 Actualizado...
 33333
 Commit 1
+<<<<<<< HEAD
 Commit 2
 Commit 3
 Commit 4
 Commit 5
+=======
+Commit 2
+>>>>>>> parent of 65750d3 (Archivo.txt)
