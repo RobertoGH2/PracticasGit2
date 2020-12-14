@@ -1,0 +1,187 @@
+[33mcommit d02f03e74259edae4b3a1291008d8e0e8ae4673f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mrama_nueva3[m[33m)[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Mon Dec 14 02:39:32 2020 -0700
+
+    agregandi linea 4 desde rama rama_nueva3
+
+[33mcommit 92fc7e69b496be4bc1373b3fa63a4cccc7671ff5[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Mon Dec 14 01:34:19 2020 -0700
+
+    agregando linea 3
+
+[33mcommit 64cbb5646c4680147c2b0706d3783ea1904054c6[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Mon Dec 14 01:33:03 2020 -0700
+
+    agregando linea 2
+
+[33mcommit 278886b1351b2f79cbf111ac55956299ea09e28f[m[33m ([m[1;32mrama_nueva2[m[33m, [m[1;32mrama_nueva[m[33m, [m[1;32mrama_desde_linea_1[m[33m)[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Mon Dec 14 01:32:24 2020 -0700
+
+    agregando linea 1
+
+[33mcommit 02c06bca4e435d52f90148c3fea3b06733c70824[m[33m ([m[1;32mrama2[m[33m)[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sun Dec 13 11:09:44 2020 -0700
+
+    Renombrando otra vez
+
+[33mcommit 5ca23ae7ee69b940f83931aac96e6658cd187fa6[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sun Dec 13 11:07:06 2020 -0700
+
+    Renombrando archivo5
+
+[33mcommit d86ed3bb78c1df25ad08ba2343e903b34604e8a2[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sun Dec 13 10:53:24 2020 -0700
+
+    agregando archivo5
+
+[33mcommit 011e78f8bcf1243f91a99a4f6051943e5f56f60f[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 20:06:22 2020 -0700
+
+    Tercer Commit
+
+[33mcommit b1c99a5c1a533d41cdd9813a61e80f98121e6d55[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 20:02:04 2020 -0700
+
+    Segundo Commit
+
+[33mcommit d14bf782d68fdc1326cdcd3ff738dbc40f8e13f6[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 19:58:20 2020 -0700
+
+    Primer Commit
+
+[33mcommit 0cf44630d2207af0e35d8307a33ff1bb72fa247e[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 19:27:07 2020 -0700
+
+    Tercer Commit
+
+[33mcommit bc422f1c5a88f8157440fe5ee9e7567e3bfac928[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 19:26:31 2020 -0700
+
+    Segundo Commit Completado
+
+[33mcommit e3e0411dd5cd694b303bde0e70ad3d36914a6b87[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 19:20:22 2020 -0700
+
+    Revert "Commit 2 Completado"
+    
+    This reverts commit ee79cb93ce90dffa55fb90d49733946b4878fd7a.
+
+[33mcommit e48df483853cf8a29e751fc350673b221c3c7f38[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 18:58:57 2020 -0700
+
+    Commit 3 Completado
+
+[33mcommit ee79cb93ce90dffa55fb90d49733946b4878fd7a[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 18:57:18 2020 -0700
+
+    Commit 2 Completado
+
+[33mcommit 0ee1a4e4e60014d2c1f6816c23b3ed2166bddf05[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 18:56:33 2020 -0700
+
+    Commit 1 Completado
+
+[33mcommit d6a2452e263c51bbb1c85679d59f0ebb731d4764[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 14:01:53 2020 -0700
+
+    Commit archivo 3
+
+[33mcommit 8095c0036ee5352f6b7cecb5f7e737669eda1cf2[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 13:48:19 2020 -0700
+
+    Archivo.txt
+
+[33mcommit 342ed9021832167711b755bb352a71613d1b0142[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 13:38:22 2020 -0700
+
+    Archivo.txt
+
+[33mcommit 43274aa0721bd06ac1645d6dc334299d07bc866a[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 13:37:51 2020 -0700
+
+    Archivo.txt
+
+[33mcommit 65750d39c5564b79df745afae36c732f14986efe[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 13:37:21 2020 -0700
+
+    Archivo.txt
+
+[33mcommit 9692dc6d776fc283dbcb7cfe9d57e298e99c2083[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 13:36:44 2020 -0700
+
+    Archivo.txt
+
+[33mcommit 76f1d2d90844e3d25a61d4a6024e18526fbeaef9[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 12 13:35:19 2020 -0700
+
+    Archivo.txt
+
+[33mcommit aa42b6867f2c2920ff0eb59a25914c18fc987efb[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Mon Dec 7 22:25:46 2020 -0700
+
+    Commit 1
+
+[33mcommit 02899cb6f1d2f366425d4ca7a3050a20de68a150[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: RobertoGH2 <48840150+RobertoGH2@users.noreply.github.com>
+Date:   Sun Dec 6 20:10:15 2020 -0700
+
+    Update ProbandoCambios.txt
+
+[33mcommit 77ad545b7ec591734737b36376ecdb2faea81af8[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sun Dec 6 15:21:05 2020 -0700
+
+    Primera Captura
+
+[33mcommit bb2a24141789eee7a642d2f7b3f5a9e4805df00f[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Sat Dec 5 20:38:30 2020 -0700
+
+    Agregando archivo de Avances
+
+[33mcommit 7dbe8385e6c9624428b0bba26620cd7954f9b18d[m
+Author: RobertoGH2 <48840150+RobertoGH2@users.noreply.github.com>
+Date:   Thu Dec 3 21:20:01 2020 -0700
+
+    Update Archivo.txt
+
+[33mcommit 1336ad95b68a48022f6ae22221950d1348f123e2[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Thu Dec 3 16:27:30 2020 -0700
+
+    Actualizacion Z
+
+[33mcommit 1e472bdd20e4412606f34384ca6f8eac836b7fda[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Thu Dec 3 13:51:44 2020 -0700
+
+    Segunda actulizacion...
+
+[33mcommit 37acbef0fe8b5674ea44c6cb86d286e101e3c10d[m
+Author: Roberto Cruz Gallegos <roberto.cruz.gallegos@gmail.com>
+Date:   Thu Dec 3 13:49:50 2020 -0700
+
+    Primera actualizacion

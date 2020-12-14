@@ -1,9 +1,33 @@
-git init
-git add archivo.extension
-git add --all
-ls
-clear
-git commit -m "Comentario"
-git remote add origin http://...
+git config --global user.name "Roberto" ...........(Crear Usuario).
+git config --global user.email correo@gmail.com ...(Crear el email del usuario).
+git config --list .................................(Muestra los datos d configuración).
+ls -a .............................................(Muestra archivos ocultos).
+git init ..........................................(Inicializa un nuevo repositorio).
+git add archivo.extension .........................(agrega un archivo al stage).
+git status ........................................(Muestra el status de los archivos, si estan en el stage o no).
+git add --all .....................................(Agrega todos los archivos modificados al stage).
+ls ................................................(Muestra el directorio).
+clear .............................................(Limpia la pantalla).
+git commit -m "Comentario" ........................(Envía los archivos del stage al repositorio).
+git log ...........................................(Muestra el log del repositorio).
+git remote add origin http:// .....................(Agrega un repositorio remoto).
+git remote -v......................................(Para comprobar que se ha agregado satisf. el repositorio remoto).
+git push origin master ............................(Envía lo que hay en el repositorio master al repositorio origin).
+git pull origin master ............................(Envía lo que hay en el repositorio origin al repositorio master).
+git help Comando/--all
 
-git pull origin master
+REPARACIÓN BASICA.
+git clean -f ......................................(Borra archivos que se hayan modificado y no esten en el stage).
+git clean -n ......................................(Muestra archivos que se borraran al usar git clean -f).
+
+MISION DE RESCATE
+git reset HEAD archivo.extension ..................(regresa el archivo del estado stage a working directory).
+git revert Num.SSH ................................(Elimina los commit hasta el SSH dado).
+git mv archivo_viejo.ext archivo_nuevo.ext ........(renombra archivo y lo pone en el stage para solo darle commit manualmente).
+
+git branch ........................................(Para ver cuales ramas existen y en cual estamos).
+git branch -d NombreRama ..........................(Elimina una rama).
+git branch -m NombreViejo NombreNuevo .............(Renombra una rama).
+git checkout SHA-1 ................................(Actualiza el archivo al commit deseado o rama para ir a la ultima versión).
+git checkout -b rama_nueva2 .......................(Crea la rama rama_nueva2 y se mueve hacia ella).
+git merge rama_nueva ..............................(Mezcla los cambios de las ramas).
